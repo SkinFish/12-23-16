@@ -1,0 +1,236 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.custom-icon {
+	margin-left: 50%;
+	margin-top: 10%;
+	padding: 10px;
+}
+.custom-icon:hover {
+	margin-left: 50%;
+	margin-top: 10%;
+	transition: 0.5s;
+	border: 1px solid black;
+	background-color: black;
+	color: #FCF77F;
+	border-radius: 130px;
+}
+.custom-col {
+	font-size: 25px;
+}
+.custom-col-two {
+	font-size: 42px;
+}
+.custom-icon-two {
+	margin-top: 10%;
+	margin-left: -15%;
+}
+.custom-col-three {
+	margin-top: 4%;
+	font-size: 25px;
+}
+.margin-icon {
+	margin-left: 4%;
+}
+
+.top {
+	background-color: #FCF77F;
+	height: 100vh;
+}
+.not-default {
+	margin-bottom: 15%;
+}
+.past-h {
+	width: 50%;
+	text-align: justify;
+	margin-left: 22%;
+	margin-bottom: 5%;
+}
+.my-button {
+	border: 1px solid black;
+	display: inline;
+	padding: 10px;
+	font-size: 20px;
+	border-bottom-width: 2px;
+	margin-left: 42%;
+}
+i.dr {
+	display: block;
+	margin-top: 10%;
+	font-size: 30px;
+	margin-left: 47%;
+}
+h5.heading-five {
+	display: inline-block;
+	font-style: bolder !important; 
+}
+i.icon-one {
+	font-size: 30px !important;
+	margin-right: 20px;
+}
+i.icon-two {
+	font-size: 30px !important;
+	margin-right: 12px;
+}
+i.icon-three {
+	font-size: 30px !important;
+	margin-right: 12px;
+}
+i.icon-four {
+	font-size: 30px !important;
+	margin-right: 6px;
+}
+i.icon-five {
+	font-size: 30px !important;
+	margin-right: 8px;
+}
+i.icon-six {
+	font-size: 30px !important;
+	margin-right: 17px;
+}
+.container-custome-two {
+	margin-left: 15% !important;
+}
+p.p-col {
+	font-size: 10px;
+	width: 50%;
+	margin-left: 43px;
+}
+
+
+.middle {
+	margin-top: 10%;
+}
+
+
+
+.block-one i, .block-two i, .block-three i {
+	font-size: 50px;
+}
+
+.block-one h4, .block-two h4, .block-three h4 {
+	font-weight: bolder;
+}
+
+.block-one p.pre-pre, .block-two p.pre-pre, .block-three p.pre-pre {
+	font-size: 12px;
+}
+
+.block-one p.price, .block-two p.price, .block-three p.price {
+	font-size: 30px;
+	font-weight: bolder;
+	color: black;
+}
+.block-one button.get-free, .block-two button.buy, .block-three button.learn-more {
+	border-radius: 0px;
+	font-size: 20px;
+	font-weight: bold;
+	border: 3px solid black;
+	background-color: white;
+	color: black;
+	padding: 5px;
+	margin-bottom: 20px;
+}
+.block-one button.get-free:hover, .block-two button.buy:hover, .block-three button.learn-more:hover {
+	border-radius: 0px;
+	font-size: 20px;
+	font-weight: bold;
+	border: 3px solid black;
+	transition: 0.5s;
+	background-color: black;
+	color: white;
+	padding: 5px;
+}
+button.learn-more {
+	border-radius: 0px;
+	font-size: 20px;
+	font-weight: bold;
+	border: 3px solid black;
+	background-color: white;
+	color: black;
+	padding: 5px;
+	margin-bottom: 20px;
+}
+button.learn-more:hover {
+	border-radius: 0px;
+	font-size: 20px;
+	font-weight: bold;
+	border: 3px solid black;
+	transition: 0.5s;
+	background-color: black;
+	color: white;
+	padding: 5px;
+}
+
+
+.middle-level-two {
+	margin-top: 90px;
+}
+.block-works h3 {
+	font-weight: bolder;
+}
+
+
+
+.middle-level-three {
+	margin-top: 90px;
+}
+.name {
+	color: black;
+	font-weight: bolder;
+}
+
+
+.middle-level-four {
+	margin-top: 90px;
+}
+.block-stats i {
+	font-size: 70px;
+}
+.stat-s {
+	font-size: 30px;
+	font-weight: bolder;
+	color: black;
+}
+
+
+.block-inputs {
+	margin-top: 125px;
+}
+
+input.input-email {
+	background-color: white;
+	border: 2px solid black;
+	padding: 5px;
+	width: 20%;
+}
+input.textarea-fav {
+	background-color: white;
+	border: 2px solid black;
+	padding: 5px;
+}
+
+
+.footer {
+	background-color: black;
+	width: 100%;
+	color: white;
+	margin-bottom: 0px !important;
+	height: 300px;
+}
+input.reg {
+	border: 1px solid black;
+	border-radius: 0px;
+	color: black;
+	padding: 10px;
+	width: 25%;
+}
+
+button.submit-button {
+	color: black;
+	background-color: white;
+	border: 0px solid black;
+	border-radius: 0px;
+	padding: 10px;
+}
